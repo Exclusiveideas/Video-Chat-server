@@ -5,4 +5,4 @@ An ID is automatically generated in every visit to the application, copy your ID
 
 #NOTE
  This is the server side
- check https://github.com/Exclusiveideas/Video-Chat-client for the server side
+ check https://github.com/Exclusiveideas/Video-Chat-client for the client side
